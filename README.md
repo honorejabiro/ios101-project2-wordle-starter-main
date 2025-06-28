@@ -30,7 +30,7 @@ The following **additional** features are implemented:
     <a href="https://www.loom.com/share/314ba58ac0a34b7abe71598f27f44bf1">
       <p>Simulator - iPhone 15 Pro - 19 June 2025 - Watch Video</p>
     </a>
-    <a href="https://www.loom.com/share/314ba58ac0a34b7abe71598f27f44bf1">
+    <a href="[https://www.loom.com/share/314ba58ac0a34b7abe71598f27f44bf1](https://www.loom.com/embed/645451d0dc01493095bb4696ae61bb17?sid=1028c998-4ce7-41dc-814a-030baeb13543)">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/314ba58ac0a34b7abe71598f27f44bf1-da1ad2f97e95084b-full-play.gif">
     </a>
   </div>
